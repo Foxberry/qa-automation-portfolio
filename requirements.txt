@@ -1,0 +1,8 @@
+robotframework>=7.0
+robotframework-requests>=0.9.7
+robotframework-seleniumlibrary>=6.7
+pytest>=8.0
+requests>=2.32
+jsonschema>=4.23
+psycopg[binary]>=3.2
+ruff>=0.6
